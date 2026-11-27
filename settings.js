@@ -25,7 +25,7 @@ export const jereBaseUrl = "https://api.jerexd.my.id"
 export const izzxdBaseUrl = "https://api.izzxd.my.id"
 export const nexadevBaseUrl = "https://api.nexadev.my.id"
 
-export const nexadevApiKey = "denncode"
+export const nexadevApiKey = "-"
 export const apiTermai = "-" // API TERMAI
 export const jereApiKey = "-" // API JEREXD
 export const izzxdApiKey = "-"// API IZZXD
